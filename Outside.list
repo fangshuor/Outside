@@ -524,3 +524,7 @@ DOMAIN-SUFFIX,linkedin.com,PROXY
 DOMAIN-SUFFIX,licdn.com,PROXY
 DOMAIN-SUFFIX,msn.com,PROXY
 DOMAIN-SUFFIX,skype.com,PROXY
+
+# > 9to5mac
+
+DOMAIN-SUFFIX,9to5mac.com,PROXY
