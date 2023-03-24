@@ -18,9 +18,6 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,biligame.com
 IP-CIDR,203.107.1.0/24,REJECT
-DOMAIN-SUFFIX,weibo.cn
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-KEYWORD,weibo
 DOMAIN,tieba.baidu.com
 DOMAIN,tbmsg.baidu.com
@@ -65,8 +62,8 @@ DOMAIN,keylol.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN,www.wenshushu.cn
 IP-CIDR,119.29.29.98/32,REJECT
-DOMAIN-KEYWORD,douban
 DOMAIN-SUFFIX,doubanio.com,DIRECT
+DOMAIN-KEYWORD,douban
 DOMAIN,api.coolapk.com
 DOMAIN,api.taptapdada.com
 DOMAIN,god.gameyw.netease.com
