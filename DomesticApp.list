@@ -18,24 +18,6 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,biligame.com
-#抖音
-DOMAIN-KEYWORD,core-c-lq
-DOMAIN-KEYWORD,core-lq
-DOMAIN-KEYWORD,normal-c-lq
-DOMAIN-KEYWORD,normal-lq
-DOMAIN-KEYWORD,search-quic-lq
-DOMAIN-KEYWORD,search-lq
-DOMAIN-SUFFIX,zijieapi.com,DIRECT
-DOMAIN-SUFFIX,ecombdapi.com,DIRECT
-DOMAIN-KEYWORD,-normal-hl
-DOMAIN-KEYWORD,-normal-c-hl
-DOMAIN-KEYWORD,-core-c-hl
-DOMAIN-KEYWORD,-normal-lf
-DOMAIN-KEYWORD,-normal-c-lf
-DOMAIN-KEYWORD,-core-c-lf
-DOMAIN,sso.douyin.com
-DOMAIN,www.douyin.com
-DOMAIN-SUFFIX,snssdk.com
 # 微博
 IP-CIDR,203.107.1.0/24,REJECT
 DOMAIN-KEYWORD,weibo
