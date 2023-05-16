@@ -3,21 +3,21 @@
 # https://github.com/lwd-temp/anti-ip-attribution
 # Surge分流规则
 # B站
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN,api.bilibili.com
-DOMAIN,api.bilibili.tv
-DOMAIN,app.bilibili.com
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN,api.live.bilibili.com
-DOMAIN,api.vc.bilibili.com
-DOMAIN,passport.bilibili.com
-DOMAIN,live-trace.bilibili.com
-DOMAIN,message.bilibili.com
-DOMAIN,cm.bilibili.com
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,biligame.com
+# DOMAIN-SUFFIX,biliapi.net
+# DOMAIN,api.bilibili.com
+# DOMAIN,api.bilibili.tv
+# DOMAIN,app.bilibili.com
+# DOMAIN-SUFFIX,biliapi.com
+# DOMAIN,api.live.bilibili.com
+# DOMAIN,api.vc.bilibili.com
+# DOMAIN,passport.bilibili.com
+# DOMAIN,live-trace.bilibili.com
+# DOMAIN,message.bilibili.com
+# DOMAIN,cm.bilibili.com
+# DOMAIN-SUFFIX,bilibili.com
+# DOMAIN-SUFFIX,im9.com
+# DOMAIN-SUFFIX,acg.tv
+# DOMAIN-SUFFIX,biligame.com
 # 微博
 IP-CIDR,203.107.1.0/24,REJECT
 DOMAIN-KEYWORD,weibo
